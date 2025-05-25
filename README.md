@@ -34,6 +34,6 @@ This project is a front-end clone of a fictional plant shop called **Greenden**,
 ---
 ## 💻 Code and Live Demo
 
-- **GitHub Repository**:https://github.com/DVV24/Greenden-Tailwind
+- **GitHub Repository**: https://github.com/DVV24/Greenden-Tailwind
 - **Live Demo**: https://dvv24.github.io/Greenden-Tailwind/
 
