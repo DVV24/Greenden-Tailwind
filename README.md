@@ -1,4 +1,4 @@
-# 🌿 Greenden-Tailwind-clone
+# 🌿 Greenden-Tailwind
 
 A responsive and elegant front-end plant store clone created using **HTML** and **Tailwind CSS**. This project features a modern UI design with a clean layout, product cards, testimonials, and a contact form — all optimized for multiple screen sizes.
 
@@ -34,6 +34,6 @@ This project is a front-end clone of a fictional plant shop called **Greenden**,
 ---
 ## 💻 Code and Live Demo
 
-- **GitHub Repository**: https://github.com/DVV24/Greenden-Tailwind-clone
-- **Live Demo**: 
+- **GitHub Repository**:https://github.com/DVV24/Greenden-Tailwind
+- **Live Demo**: https://dvv24.github.io/Greenden-Tailwind/
 
